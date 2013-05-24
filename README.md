@@ -1,4 +1,5 @@
 mikutter_most_dig
 =================
 
-mostを掘り返しちゃうゾ☆
+mostを掘り返しちゃうゾ☆  
+要gem nokogiri
