@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+
+# Copyright 2013, pocket
+# Licensed MIT
+# http://opensource.org/licenses/mit-license.php
+
 require 'open-uri'
 require 'nokogiri'
 
